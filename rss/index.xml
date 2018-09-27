@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alejandro Sánchez]]></title><description><![CDATA[Blog y contenido relacionado a temas informáticos.]]></description><link>https://alejos4n.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Sep 2018 05:58:42 GMT</lastBuildDate><atom:link href="https://alejos4n.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alejandro Sánchez]]></title><description><![CDATA[Blog y contenido relacionado a temas informáticos.]]></description><link>https://alejos4n.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Sep 2018 06:10:03 GMT</lastBuildDate><atom:link href="https://alejos4n.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Economía y ciberseguridad.]]></title><description><![CDATA[<div class="paragraph">
+<p>El Banco de la República de Colombia en su «Encuesta de Percepción sobre Riesgos del Sistema Financiero» del 2018-I nos dice que “el deterioro de la cartera, derivado principalmente de la desaceleración económica ” es  la que más preocupa a los encuestados. Aunque no vamos a entrar en detalles que a los economistas conciernen, me llamó la atención que el “Riesgo cibernético” fuera el último riesgo según los encuestados con solo 1,0 % de percepción para julio de 2017; 1,3 % para enero de 2018 y la aterradora cifra de 0,0 % para julio de 2018. Y es que según la misma para julio de 2018 el “riesgo con mayor probabilidad de ocurrencia” dejaba al riesgo cibernético en undécima posición con 2,2 % mientras que en enero del mismo año la probabilidad era de 4,8 %; esto teniendo en cuenta que a mediados del 2017 fue noticia el entonces conocido <a href="https://noticias.caracoltv.com/mundo/ee-uu-acusa-corea-del-norte-del-ciberataque-wannacry-de-mayo-pasado">Wannacry</a> que puso en boca de todas las personas palabras como seguridad informática, ransomware y demás palabras propias de gente propia del mundo de la tecnología.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/alejos4n/alejos4n.github.io/blob/master/images/Selecci%C3%B3n_056.png?raw=true" alt="Selecci%C3%B3n 056">
+</div>
+</div>
+<div class="paragraph">
+<p>Es entonces cuando me pregunto si la sensibilización sobre este tipo de incidentes no es suficiente en el usuario de las entidades financieras y en el público en general, es que si bien, no vamos a mostrar un panorama digno de una serie de tv como <a href="https://www.youtube.com/watch?v=ESLDL8H1qG0">Mr Robot</a>, basta con hacernos preguntas básicas como:</p>
+</div>
+<div class="paragraph">
+<p>¿Qué tanto golpearía la economía que un banco esté fuera de servicio?
+¿Realmente afectaría la economía o solo sería un problema de la organización?
+¿Cuántas pérdidas al día puede dejar en un banco que todas sus oficinas cierren o que solo una de ellas cierre?
+¿Están preparados para un ataque dirigido?
+¿Sus sistemas son lo suficientemente actualizados y bien operados para evitar este tipo de incidentes?</p>
+</div>
+<div class="paragraph">
+<p>Y es que según un informe de la OEA del 25 de septiembre de 2018 dice que al menos 9 de cada 10 entidades bancarias sufrieron incidentes  cibernéticos en el último año.
+Y aunque muchos de estos ataques no son exitosos es una cifra bastante alarmante que debería ser tenida en cuenta a la hora de capacitar usuarios e informar al público sobre los riesgos que conllevan las nuevas tecnologías, así como las buenas prácticas que deben tener desde desarrolladores de software hasta las personas encargadas de la infraestructura tecnológica.</p>
+</div>]]></description><link>https://alejos4n.github.io/2018/09/27/Economia-y-ciberseguridad.html</link><guid isPermaLink="true">https://alejos4n.github.io/2018/09/27/Economia-y-ciberseguridad.html</guid><dc:creator><![CDATA[Alejandro Sánchez]]></dc:creator><pubDate>Thu, 27 Sep 2018 00:00:00 GMT</pubDate></item></channel></rss>
